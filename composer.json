@@ -1,0 +1,22 @@
+{
+    "name": "franksamsung/canvas-theme-test",
+    "description": "Test New Cnavas Theme",
+    "keywords": ["canvas", "theme", "paper"],
+    "type": "canvas-theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul Vayanos",
+            "email": "pvayanos@gmail.com"
+        }
+    ],
+    "extra": {
+        "canvas-theme": {
+            "title": "Paper Test",
+            "directories": {
+                "public": "public",
+                "views": "resources/views"
+            }
+        }
+    }
+}
